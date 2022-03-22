@@ -1,0 +1,7 @@
+Registros dos Clientes
+Nome dos Clientes
+Cliente: Marcos Ag: 2096 Cc: 5289 Email: marcos@gmail.com Telefone: 58248659 Saldo: R$ 200.0
+Cliente: Aline Ag: 2096 Cc: 2658 Email: aline@gmail.com Telefone: 58984748 Saldo: R$ 300.0
+Cliente: Marcelo Ag: 7896 Cc: 2356 Email: marcelo@gmail.com Telefone: 58248659 Saldo: R$ 4000.0
+Cliente: Marineuza Ag: 2096 Cc: 2356 Email: marineuza@gmail.com Telefone: 58964785 Saldo: R$ 36584.0
+Cliente: Liliane Ag: 2589 Cc: 2365 Email: liliane@gmail.com Telefone: 80646598 Saldo: R$ 500.0
